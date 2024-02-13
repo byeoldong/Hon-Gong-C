@@ -34,3 +34,5 @@ void print_data(int a, int b)
 {
     printf("두 정수 출력 : %d, %d\n",a,b);
 }
+
+// 이것은 github에 업데이트가 되는지 확인하기 위한 주석입니다./
