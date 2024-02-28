@@ -55,6 +55,7 @@ int main(void)
             fprintf(c_fp,"%s\n",str_b);
         }
     }
+    rewind(c_fp);
 
     while(1)
     {
